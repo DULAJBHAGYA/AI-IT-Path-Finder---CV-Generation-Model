@@ -1,1 +1,1 @@
-# AI-IT-Path-Finder---CV-Generation-Model
+# AI IT Path Finder - CV Generation Model
